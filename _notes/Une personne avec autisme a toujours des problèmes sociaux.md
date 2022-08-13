@@ -1,0 +1,3 @@
+Par exemple : un des endroits les plus excluant pour la personne avec autisme est l'école car [[Les cours de l'éducation national ont oublié la réflexion individuelle]]
+
+De ce fait, les difficultés des interactions sociales pourraient s'expliquer par une incompatibilité avec l'[[utilitarisme]] et concrètement cela constitue le manque d'empathie (quand il n'y a pas de [centre d'intérêt spécifique]) face à **n'importe quelle** personne.
