@@ -1,4 +1,6 @@
-
+---
+enableLinks: true
+---
 [[Psychologie]] #blog #🌱 
 ___
 Il y a deux aspects majeurs pour definir ce qu'est l'autisme
