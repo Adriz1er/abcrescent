@@ -1,0 +1,2 @@
+On a une 2° énergie, où on a détruit les ==liaisons== covalentes *donc* plus d'énergie par rapport à la situation 1. *atteinte du plus grand niveau d'énergie*
+On a donc une situation plus stable dans une énergie $E_3$ mais qui a moins d'énergie que la première

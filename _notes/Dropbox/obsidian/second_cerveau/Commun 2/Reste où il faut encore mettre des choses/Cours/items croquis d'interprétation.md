@@ -1,0 +1,15 @@
+#☀️ 
+- zone rurale
+- zone urbaine
+- habitat
+- étangs
+- zone agricole
+- route
+- "château" "zone de production"
+- zone en construction
+- forêt / zone boisée
+- falaises
+- parking
+- golf
+- zone industrielle
+- voie ferroviaire / autoroutiaire -> viaduc

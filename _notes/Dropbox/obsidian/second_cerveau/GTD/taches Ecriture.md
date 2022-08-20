@@ -1,0 +1,2 @@
+ - [finir podcast corruption Platon -> article blog](https://todoist.com/showTask?id=5845830752)
+- [Trouver un autre podcasteur](https://todoist.com/showTask?id=5845830793)

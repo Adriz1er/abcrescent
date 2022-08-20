@@ -1,0 +1,9 @@
+- [x] Prendre sa blouse de chimie [[recurrence]]-  ‎lun.-25-avr.
+- [ ]  [Percer feuille exercice  ](https://todoist.com/showTask?id=5839511051)
+- [ ]  [trier TP](https://todoist.com/showTask?id=5839510972)
+- [ ]  [refaire polarité ex29  ](https://todoist.com/showTask?id=5839510877)
+- [ ]  [Demander prochain chapitre c'est qu'elles pages pour screenshots ?](https://todoist.com/showTask?id=5839510805)
+- [ ] [demander pour quand est-ce qu'on enlève la blouse](https://todoist.com/showTask?id=5839510737)
+- [ ] #[2022-04-25 faire premiers exercices de combustion★](https://todoist.com/showTask?id=5839510466)
+- [x] Finir ou faire le dernier exercice
+- [ ] [Contrôle combustions et électricité](https://todoist.com/showTask?id=5839510245)

@@ -1,4 +1,0 @@
-- il n'y a pas de note centrale
-- le tag est le centre
-- une note peut-être visée par plusieurs notes
-- hiérarchiser

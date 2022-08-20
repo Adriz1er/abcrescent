@@ -1,3 +1,0 @@
-[[auteur]] [[bac_français]]
-___
-Guillaume Apollinaire est un poète naturalisé français qui est entré dans l'histoire en marquant le 20° siècle. Après avoir écrit son recueil Alcools dont il y a perdu une des trois parties érotique de son oeuvre, il expérimente la caligramme. Il est connu pour avoir donné du renouveau à la poésie qui n'était que rimes classiques, il est aussi théoricien et précurseur du surréalisme.

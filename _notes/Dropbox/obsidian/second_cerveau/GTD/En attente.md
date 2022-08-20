@@ -1,0 +1,22 @@
+#✅ 
+___
+- [ ]  [Envoyer événements pour jouer à Jean ★  ](https://todoist.com/showTask?id=5845634577)
+- [ ]  [Appeler mère à Maxence ★  ](https://todoist.com/showTask?id=5845634637)
+- [ ]  [revue fou de [[basson]] ★  ](https://todoist.com/showTask?id=5845634773)
+- [ ]  [faire en sorte de ne plus acheter de jeans  ?](https://todoist.com/showTask?id=5845634835)
+- [ ]  [Amener carte coiffeur](https://todoist.com/showTask?id=5845634922)
+- [ ]  [calendrier discord ?  ](https://todoist.com/showTask?id=5845636996)
+- [ ]  É[vènement instrument  ](https://todoist.com/showTask?id=5845637047)
+- [ ]  [Site [[basson]]  ](https://todoist.com/showTask?id=5845637115)
+- [ ]  [[[film]] Des hommes d'influence  ](https://todoist.com/showTask?id=5845637187)
+- [ ]  [Mettre emploi du temps pronote dans un fichier qui se reactualise  ](https://todoist.com/showTask?id=5845637271)
+- [ ]  [Retaper carnet  ](https://todoist.com/showTask?id=5845637329)
+- [ ]  [Voir pour regarder série avec @Thomas](https://todoist.com/showTask?id=5845637402)
+- [ ] [Calendrier Fou de [[basson]] ★](https://todoist.com/showTask?id=5845637585)
+- [ ] [[[basson]] note de la police dans "Bullet in the Head"](https://todoist.com/showTask?id=5845637748)
+- [x] calcul de maths avec règles de priorités [[classe]]
+- [ ] [[[Taches_Maths]] nouveau cahier de maths](https://todoist.com/showTask?id=5845637930)
+- [ ] [revoir Nathan ★](https://todoist.com/showTask?id=5845637989)
+- [ ] [partager calendrier avec Thomas ★ [Fetching Title#2xb0](https://ext.todoist.com/export/ical/todoist?user_id=39517584&ical_token=ec8f126bbe0c0b87cb227d92382e6f9d8a6c57eda3c65d7d8d512cd7a840271f&r_factor=2643)](https://todoist.com/showTask?id=5845638154)
+- [ ] [Calendrier Dulat](https://todoist.com/showTask?id=5845638240)
+- [ ] [[[en classe]] parler du seul sens qui existe](https://todoist.com/showTask?id=5845638332)
