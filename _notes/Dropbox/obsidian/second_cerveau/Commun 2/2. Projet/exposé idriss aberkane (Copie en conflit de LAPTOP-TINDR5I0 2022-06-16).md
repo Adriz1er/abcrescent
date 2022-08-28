@@ -1,4 +1,4 @@
-[[blog]]
+[[écriture]]
 ___
 *ancienne dernière du préambule de la constitution suisse* "La force de la communauté se mesure au bien-être du plus fort de ces membres"
 

@@ -1,4 +1,4 @@
-[[cours_Français]] [[blog]]
+[[cours_Français]] [[écriture]]
 ___
 # Théorie des humeurs
 La théorie des humeurs est un état de la médecine, une période. Dans ces théories la religion intervient beaucoup.

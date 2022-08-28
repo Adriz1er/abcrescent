@@ -1,4 +1,4 @@
-#📥 [[blog]]
+#📥 [[écriture]]
 
 ---
 # Tout devient insulte à la diversité 

@@ -1,8 +1,8 @@
-#🌲 [[organisation]]
+#⚙️   [[organisation]]
 ___
 engagements|100%
 --|--
-[[blog]] |5%
+[[écriture]] |5%
 [[Basson]]|75%
 Rangement / [[evergreen note]]|10%
 corps et santé|5%

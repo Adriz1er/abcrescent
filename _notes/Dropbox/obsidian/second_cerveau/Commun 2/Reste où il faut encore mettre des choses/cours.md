@@ -3,7 +3,7 @@
 - [[Cours_maths]]
 - [[Cours Anglais]]
 - [[Cours_Histoire-Géo]]
-- [[Cours_EMC]]
+- [[cours d'EMC]]
 - [[Cours_Allemand]]
 - [[Enseignement Scientifique]]
 - [[cours_Français]]

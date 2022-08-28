@@ -6,4 +6,4 @@ Concrètement ce que va faire un individu avec cette doctrine simple, c'est comp
 
 Cela a pour conséquence une utilisation de l'
 - [ ] [[l'empathie doit servir au plaisir quand on est utilitariste]]
-- [ ] machine à emotion ?
+- [ ] machine à emotion ? Bloqué par l'anxiété donc sans confiance en soi 

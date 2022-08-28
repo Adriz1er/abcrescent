@@ -1,4 +1,4 @@
-[[Cours_EMC]]
+[[cours d'EMC]]
 # Définition
 Le lanceur d'alerte est un citoyen (physique), agent publique ou salarié. Signalant ou révélant, une grave atteinte à l'intéret général. 
 La loi Sapin 2 exclu donc de la définition et par conséquent du régime général de protection les personnes morales (associations, entreprises ...)
