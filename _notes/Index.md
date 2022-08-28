@@ -11,4 +11,4 @@ Pour trouver ce qui vous plaît, je vous recommande de commencer par voir :
 - [[philo]]
 - [[Psychologie]]
 
-Vous pouvez aussi voir mes [[cours]]
+Vous pouvez aussi voir mes [[cours du lycée]]
