@@ -4,6 +4,9 @@
 De ce fait, les difficultés des interactions sociales pourraient s'expliquer avec la théorie suivante :
 une incompatibilité avec l'[[utilitarisme]] et concrètement cela constitue le manque d'empathie (quand il n'y a pas de [centre d'intérêt spécifique]) face à **n'importe quelle** personne.
 
+- [ ] concept de spectre dans l'autisme
+	- [[Le spectre autistique]]
+
 - [ ] un des endroits les plus excluant pour la personne avec autisme est l'école car [[Les cours de l'éducation national handicapent la réflexion individuelle]]
 
 - [ ] adaptation de la personne avec autisme
@@ -13,4 +16,3 @@ une incompatibilité avec l'[[utilitarisme]] et concrètement cela constitue le 
 
 - [ ] adaptation de la personne avec neuro-typie
 	- Ne pas laisser la personne avec autisme tout le temps toute seule
-
