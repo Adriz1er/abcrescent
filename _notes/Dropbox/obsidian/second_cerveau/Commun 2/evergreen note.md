@@ -1,7 +1,7 @@
 ---
 enableLinks: true
 ---
-[[organisation]] #🌲 
+[[productivité]] #🌲 
 
 ---
 **Quand elle terminée** c'est une note à laquelle on pense qui est une idée et qu'on comprend comme un concept.
