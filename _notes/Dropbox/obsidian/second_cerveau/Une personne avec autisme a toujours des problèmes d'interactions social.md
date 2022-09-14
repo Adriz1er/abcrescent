@@ -1,11 +1,14 @@
 #🌱 [[Psychologie]]
 
 ---
-De ce fait, les difficultés des interactions sociales pourraient s'expliquer avec la théorie suivante :
-une incompatibilité avec l'[[utilitarisme]] et concrètement cela constitue le manque d'empathie (quand il n'y a pas de [centre d'intérêt spécifique]) face à **n'importe quelle** personne.
+L'impossibilité d'utiliser l'empathie pour les échanges sociaux est un des principaux *traits autistique* (ce qui explique une *maladresse sociale*) ; ce qui provoque une émotion que la personne autiste ne conceptualise pas (voir [[utilitarisme]]).
 
-- [ ] concept de spectre dans l'autisme
-	- [[Le spectre autistique]]
+De plus une personne avec autisme a une vision différente (voir [[une personne avec autisme maximise ces centres d'intérêts spécifiques]])
+
+A noter : que si on prend le cas des messageries numériques le fait de regarder la personne en face de soi disparait, et de faire de petit bruit pour savoir qu'on nous écoute (hm, oui, ...)
+
+___
+- [[Le spectre autistique]]
 
 - [ ] un des endroits les plus excluant pour la personne avec autisme est l'école car [[Les cours de l'éducation national handicapent la réflexion individuelle]]
 

@@ -1,9 +1,7 @@
 [[Psychologie]] #🌱 
 
 ---
-Le spectre autistique est en définie par ==l'inclusion de la personne avec [[autisme]]==, le fait est que ça rend *chaque* difficulté *qui se manifeste* de manière à ce quelle soit **handicapante** pour la personne. 
-
-- [ ] [[L' "hétérogénéité" dans le spectre de l'autisme]]
+Le spectre autistique est en définie par ==l'inclusion de la personne avec [[autisme]]==, le fait est que ça rend *chaque* trait *qui se manifeste* de manière à ce quelle soit **handicapante** pour la personne ; ceci explique en partie une certaine hétérogénéité du spectre
 
 *À noter que* : l'intelligence n'est pas un facteur pertinent pour placer une personne dans le spectre
 - [ ] [[Le concept de spectre s'applique à tout le monde]] ☀️

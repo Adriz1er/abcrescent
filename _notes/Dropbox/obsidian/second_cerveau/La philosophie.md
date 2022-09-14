@@ -1,4 +1,4 @@
-#📝  
+#📥/📝/cours [[Cours_Philosophie]]   
 
 ---
 # Qu'est-ce que la Philosophie
