@@ -1,8 +1,8 @@
 ---
-cards-deck: maths
+cards-deck: cours::maths
 ---
 
-[[Cours_maths]] [[python_maths]] #📤 
+[[Cours_maths]] [[python_maths]] #📤/🌱
 
 ---
 Un algorithme de *seuil* a pour objectif {de trouver un rang *à partir duquel* il satisfait une **condition imposée**, (voir cours suite de première)}.

@@ -1,5 +1,5 @@
 ---
-cards-deck: Maths
+cards-deck:cours::maths
 ---
 
 #📥 [[maths]]

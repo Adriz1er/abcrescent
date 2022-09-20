@@ -1,5 +1,5 @@
 ---
-cards-deck: histoire
+cards-deck:cours::histoire
 ---
 #📝/cours 
 
@@ -20,7 +20,7 @@ La crise fragilise les démocraties. Le désespoir de la population favorise le 
 De nombreux pays basculent dans des régimes autoritaire :
 - Brésil {*1930*}
 ^1663044863430
-- Allemagne {1933}
+- Allemagne est atteinte par la crise de 1929 en {1933}, et {plus fortement que la *France*}
 ^1663044863438
 
 krack : effondrement de la bourse 

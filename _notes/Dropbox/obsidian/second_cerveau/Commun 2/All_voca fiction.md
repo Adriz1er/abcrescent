@@ -1,5 +1,5 @@
 ---
-cards-deck: Allemand
+cards-deck:cours::Allemand
 ---
 
 #☀️ [[vocabulaire allemand]]

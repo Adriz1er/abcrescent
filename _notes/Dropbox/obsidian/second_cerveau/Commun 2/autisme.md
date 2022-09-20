@@ -18,3 +18,4 @@ Mais aussi *caractérisé* par le fait qu'[[une personne avec autisme a toujours
 	- une personne avec autisme fait progresser tout le monde
 		- ce que fait une personne devient naturellement gratuit 
 	- une personne avec autisme fait des choses différentes parce que c'est spécifique
+	- une personne avec autisme semble sortir plus facilement de situation compliquée

@@ -1,32 +1,36 @@
 ---
-cards-deck: Maths
+cards-deck: cours::maths
 ---
 
 #🌱/cours [[Cours_maths]] 
 
 ---
-Le raisonnement par **récurrence** consiste à *faire une hypothèse* {pour prouver que les deux preuves de récurrence sont vraies} :
+Le raisonnement par **récurrence** consiste à *démontrer* que les deux preuves de récurrence sont vraies :
 ^1662410236644
-- **preuve initiale** : sur un {entier (généralement sur 0 ou 1)}
+- {**preuve initiale**} : sur un entier (généralement sur 0 ou 1)
 ^1662410236651
-- *qu'elle est* **vérifiée** sur **$n(\in N)$** et sur l'entier $n+1$ que celui vérifié.
-sert à *démontrer* une propriété sur {**tout** les nombres *appartenant* à *$N$* (ou à partir d'un certain rang)}.
-^1662410236657
-On chercher à démontrer un résultat pour *tout* $n$, dans une partie de $I$ (à partir de certain rang jusqu'à $+\inf$)
-# Méthode 
+- **preuve héréditaire** **vérifiée** sur {l'entier $n+1$}
+^1663218723879
+Le raisonnement par récurrence cherche à démontrer un résultat pour {*tout* $n$}, dans une partie {de $I$ (à partir de certain rang jusqu'à $+\inf$)}.
+^1663218668569
+# Méthode raisonnement par récurrence
 1. {*donner un* ***nom***} à la **propriété**
 ^1662557791907
 2. **preuve initiale** : *vérification* {qu'on **puisse** ***commencer***}, en *vérifiant* {que $P_0$ est vrai}.
 ^1662611635626
 3. **preuve héréditaire** : 
-	1. ***faire une hypothèse*** de {ce qu'il faut **démontrer** (⚠️*si besoin* mettre le français en mathématique)}, 
+	1. ***faire une hypothèse*** de ce qu'il faut {**démontrer**} (⚠️{*si besoin* mettre le français en mathématique)}, 
 ^1662611635631
-		1. on {*énonce* la propriété ($P_k$)} comme {si elle était *vérifié*, et on *écrit* ce que ça **implique** ($P_k$ :"$...$")
-^1662611635635
+		1. on *énonce* la propriété ($P_k$) ==considéré comme vérifié==, et on *écrit* ce que ça ==**implique** ($P_k$ :"$...$")==.
+^1663218831355
+
 		2. on *énonce* ce que l'on *veut **démontrer*** ($P_{k+1}$), et ce que ça **impliquerai** ($P_{k+1}$ : "$...$")
-^1662611635639
-			⚠️ à noter que : cela *implique* **l'autre côté du signe égal** ne sera pas *forcément* ***le même***, on peut donc utiliser le **prime** ($q'$) (pour une "lettre paramétrable"(qui **n**'est **pas** une *inconnue*)).
-	2. ***démontrer*** que si ($P_k$) serait *vrai* alors ($P_k+1$) sera *vrai aussi*, pour cela il faut **utiliser le fait que ($P_k$) est considéré comme vrai** pour ***prouver*** *l'hypothèse de récurrence*.
+^1663512712896
+
+			⚠️ à noter que : cela *implique* **l'autre côté du signe égal** {ne sera pas *forcément* ***le même***}, on peut donc utiliser ==le **prime** ($q'$)== ({pour une "lettre paramétrable"(qui **n**'est **pas** une *inconnue*})).
+^1663218941134
+	2. ==démontrer== que si ($P_k$) serait *vrai* alors ($P_k+1$) sera *vrai aussi*, pour cela il faut ==**utiliser le fait que ($P_k$) est considéré comme vrai==** pour ==***prouver*** *l'hypothèse de récurrence*==.
+^1663218995287
 		⚠️ *à chaque nouveau calcul* ==il faut utiliser ***or***==
 ^1663044827880
 1. **conclusion** : 

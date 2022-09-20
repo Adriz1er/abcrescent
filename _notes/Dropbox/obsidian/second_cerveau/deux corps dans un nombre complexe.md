@@ -1,5 +1,5 @@
 ---
-cards-deck: maths_expert
+cards-deck:cours::maths expert
 ---
 
 #🌱/cours [[cours_maths_expert]] [[algèbre]]

@@ -6,20 +6,12 @@ cards-deck: chimie
 
 ---
 # rappels première
-- *réaction* **total** : ==$x_{max}  = x_{final}$== 
-^1663015540435
-	- A noter qu'il y a un ==réactif limitant== (un réactif qui *n'* est *plus* présent dans l'état final)
+
 ^1663015540441
-- *réaction non-total* : ==$x_{max} > x{f}$== où les réactifs sont *toujours* **présents**
+-total* : ==$x_{max} > x{f}$== où les réactifs sont *toujours* **présents**
 ^1663015540446
 # nouveautés de Terminale
-- **taux** d'avancement final : ==$$T=\dfrac{x_{f}}{x_{max}}$$==
-^1663015540450
-	- On remarque que ce *rapport* peut être :
-		- ==$=1$== lors d'une *réaction* **totale**
-^1663015540454
-		-  ==$<1$== lors d'une *réaction* **non-totale**
-^1663015540458
+
 -  *état* ***dynamique*** se produit {avec **une réaction non-totale**} ou {quand les **deux réactifs** sont présents dans l'*état final*}, ce qui amène à ==un *état d'**équilibre***==
 ^1663015540462
 	- exemple : $A_2 + B_2 = 2AB$
