@@ -7,6 +7,7 @@ cards-deck: cours::chimie
 ---
 Sachant les [[espèces acide ou basique doivent pouvoir libérer ou capter de l'ion hydrogène]] alors un ==*échange* d'hydrogène== est possible entre l'acide et le basique, on nomme cela une réaction ==acido-basique==.
 ^1663082581859
+[[la réaction avec un acide ou une base est différente en fonction de ça puissance]]
 Après la réaction le caractère *acide* et *basique* ont donc {**intervertis**} leurs *espèces chimiques*.
 ^1663082581865
 

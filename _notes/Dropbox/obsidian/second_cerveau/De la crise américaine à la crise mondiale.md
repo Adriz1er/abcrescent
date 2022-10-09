@@ -1,12 +1,11 @@
 ---
 cards-deck:cours::histoire
 ---
-
 #📝/cours 
 
 ---
 # Crise de 1929
-Le crack ("jour noir") qui frappe la ==bourse== de {New-York} le 24 octobre {1929} déstabilise {tout les *Etats-Unis d'Amérique*}. 
+Le crack ("jour noir") qui frappe la ==bourse== de {New-York} le {24 octobre 1929} déstabilise {tout les *Etats-Unis d'Amérique*}. 
 ^1662409405171
 L'effondrement des cours de la bourse entraîne {la faillite des banques, des entreprises ou des actionnaires les plus fragiles}.
 ^1662409342767

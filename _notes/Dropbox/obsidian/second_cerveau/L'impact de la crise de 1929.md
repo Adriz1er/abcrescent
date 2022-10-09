@@ -23,9 +23,10 @@ De nombreux pays basculent dans des régimes autoritaire :
 - Allemagne est atteinte par la crise de 1929 en {1933}, et {plus fortement que la *France*}
 ^1663044863438
 
-krack : effondrement de la bourse 
-: failite banquaire : failite d'usine
+krack :: effondrement de la bourse 
+failite banquaire :: failite d'usine
 marche de la faim, **misère** qui est calmée par les **aides**
 manifestations et remises en cause *politique*
 
 2. [[faire face à la crise de 1929]]
+3. [[Le new deal et ces conséquences]]

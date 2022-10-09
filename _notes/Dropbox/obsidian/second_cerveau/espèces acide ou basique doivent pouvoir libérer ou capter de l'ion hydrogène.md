@@ -2,7 +2,7 @@
 cards-deck:cours::chimie
 ---
 
-#📤  [[Cours_Physique-Chimie]] [[chimie]]
+#📤  [[Cours_Physique-Chimie]]
 
 ---
 1. l'acide a la ==possibilité de **libérer** de l'*ion hydrogène ($H^+$)*==

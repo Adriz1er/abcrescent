@@ -3,11 +3,12 @@ enableLinks: true
 ---
 [[Psychologie]] #🌱 
 ___
-L'autisme est un *trouble neuro***développemental** (donc qui existe toujours si il y a des individus non-autistes) *caractérisé* par le fait qu'[[une personne avec autisme maximise ces centres d'intérêts spécifiques]]. 
+L'autisme est un *trouble neuro-***développemental** (donc qui existe toujours si il y a des individus non-autistes) *caractérisé* par le fait qu'[[une personne avec autisme maximise ces centres d'intérêts spécifiques]]. 
 Mais aussi *caractérisé* par le fait qu'[[une personne avec autisme a toujours des problèmes d'interactions social]]
 
 
 - [ ] concepts en vrac
+	- gestion difficile des émotions
 	- hypersensibilité
 	- dyspraxie
 	- autres troubles psychologiques, ou autres particularités neuronales

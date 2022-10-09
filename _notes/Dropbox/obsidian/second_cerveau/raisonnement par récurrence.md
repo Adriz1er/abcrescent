@@ -27,7 +27,7 @@ Le raisonnement par récurrence cherche à démontrer un résultat pour {*tout* 
 		2. on *énonce* ce que l'on *veut **démontrer*** ($P_{k+1}$), et ce que ça **impliquerai** ($P_{k+1}$ : "$...$")
 ^1663512712896
 
-			⚠️ à noter que : cela *implique* **l'autre côté du signe égal** {ne sera pas *forcément* ***le même***}, on peut donc utiliser ==le **prime** ($q'$)== ({pour une "lettre paramétrable"(qui **n**'est **pas** une *inconnue*})).
+			⚠️ à noter que : si il y a une *lettre paramétrable* cela *implique* {qu'elle n'aura pas la même *valeur*}.
 ^1663218941134
 	2. ==démontrer== que si ($P_k$) serait *vrai* alors ($P_k+1$) sera *vrai aussi*, pour cela il faut ==**utiliser le fait que ($P_k$) est considéré comme vrai==** pour ==***prouver*** *l'hypothèse de récurrence*==.
 ^1663218995287

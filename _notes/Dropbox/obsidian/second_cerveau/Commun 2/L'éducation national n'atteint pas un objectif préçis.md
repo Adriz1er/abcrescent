@@ -1,4 +1,4 @@
-#🌲  [[erreur de l'éducation national]]
+#🌲  [[problèmes de l'éducation national]]
 
 ---
 Les cours prennent seulement en compte des propriétés (voir : [[L'utilitarisme oblige à utiliser seulement la pensée convergente dans l'éducation nationale]]), de plus un cours (dans l'éducation nationale) est un groupement de concepts (peut-être pas en philo) (voir aussi 
