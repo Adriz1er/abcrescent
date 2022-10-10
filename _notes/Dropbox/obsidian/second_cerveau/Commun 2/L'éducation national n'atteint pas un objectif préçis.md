@@ -1,4 +1,4 @@
-#🌲  [[problèmes de l'éducation national]]
+#🌲  [[problèmes que l'éducation national se doit  de faire face]]
 
 ---
 Les cours prennent seulement en compte des propriétés (et souvent elles sont *admises*) (voir : [[L'utilitarisme oblige à utiliser seulement la pensée convergente dans l'éducation nationale]]), de plus un cours (dans l'éducation nationale) est un groupement de concepts (peut-être pas en philo) (voir aussi [[Les evergreen notes doivent être atomique]])

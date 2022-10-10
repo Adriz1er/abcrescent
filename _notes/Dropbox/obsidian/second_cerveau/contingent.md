@@ -2,7 +2,6 @@
 ___
 #spaced/philosophie 
 Du latin *contingere* : toucher, ou encore au sens figuré arriver par hasard. Ainsi contingent veut dire qui arrive par *hasard*, mais aussi qui *doit* arriver, ou encore *probable* ; donc *conceptuellement* **indertiminé** par *hasard* ou par *libre-arbitre*.
-%%#spaced/philosophie%%
 ## s'oppose à nécessaire
 - Du latin *necessarius* : ***inéluctable***.
 		Donc qui ne peut être autrement, ou *déterminé*

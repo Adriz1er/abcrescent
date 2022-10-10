@@ -10,6 +10,6 @@ Actuellement, je suis au début de la construction d'un système de notes organi
 Pour trouver ce qui vous plaît, je vous recommande de commencer par voir :
 - [[philo]]
 - [[Psychologie]]
-- [[problèmes de l'éducation national]]
+- [[problèmes que l'éducation national se doit  de faire face]]
 
 Vous pouvez aussi voir mes [[cours du lycée]]
