@@ -1,4 +1,4 @@
-#📤 #spaced 
+#📤 
 ___
 Pour tout $u$, $v$ $\in C$ et $n \in N$ :
 $$

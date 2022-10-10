@@ -1,7 +1,3 @@
----
-cards-deck:cours::maths expert
----
-
 #🌱/cours [[cours_maths_expert]] [[algèbre]]
 
 ---

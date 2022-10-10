@@ -1,6 +1,6 @@
----
+
 cards-deck:cours::chimie
----
+
 
 #📤 [[Cours_Physique-Chimie]]
 

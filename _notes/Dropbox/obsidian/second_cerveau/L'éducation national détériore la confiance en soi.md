@@ -1,9 +1,13 @@
 #📥 
 
 ---
-Sachant un élève avec de l'utilitarisme, un cours crée la peur de ne pas réussir notamment le rôle 
+La connaissance nécessite d'être *intégré* (voir aussi [[Les evergreen notes doivent être liées à ce qu'on pense]]), et pas de s'ajouter comme si on ajouter une couche de crème sur la pâte d'un gateau.
 
----
+
+
+
+
+
 # L'école c'est plus tu stresses plus tu réussis
 
 [[utilitarisme]] #📥 [[problèmes de l'éducation national]]

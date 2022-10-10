@@ -1,9 +1,27 @@
 #📝/cours [[Cours_Philosophie]]
+___
+# Analyse lexicale
+La définition d'un mot ou d'une expression désigne l'explication de son sens. Au niveau lexical, la définition d'usage désigne l'explication de l'usage commun qui est fait du mot en rapport avec des exemples. Au niveau savant, la définition réfléchie désigne l'**explication** (voir [[pensée convergente]]) de la définition de cet usage en rapport avec des exemples. 
+Remarque : La définition réfléchie va utiliser un *méta-language*, c'est-à-dire un language moins descriptif et plus universel visant à catégoriser les éléments de la définition d'usage.
+___
+## La problématisation
+*Interroger* les principes de {l'**opposition**} : {*thèse initial*}, {*thèse opposée*}, afin de trouver une ==alternative== à un sujet de manière à poser une question ; pour pouvoir proposer un **argument** *de principe* et *ensuite* donner une **réponse**.
 
+---
+## exemple de plan
+1. La naissance de la philosophie absolutise la vérité. Socrate et Platon
+	1. Le témoignage de Socrate à la vérité de "Criton". Le modèle du *martyr*.
+	2. **Explication**. La finalité sprirituelle de l'homme
+	3. **Conséquence**. Le dualisme et le tragique humain
+2. la vie biologique fondement de toute réalité humaine. Nietzsche
+3. A quelle condition la vérité est-elle intégrale à la vie
 
---- 
-# Exemple : Faut-il préférer la vérité à la vie ?
+---
+# Méthode de dissertation
+Elle s'énonce sous la forme d'une question.
+La dissertation est une médiation écrite réglée visant à répondre clairement et rigoureusement à une question en discutant des réponses présentes dans la culture et la société ; c'est une méthode exigente. 
 ## Introduction
+exemple avec [[vérité ou vie]]
 ### Analyse
 1. a pour *but* de comprendre de façon réfléchie les **mots du sujet**, de *pouvoir* prendre **plusieurs direction** (voir pensée divergente)
 	- [[vérité]]
@@ -26,22 +44,6 @@
 		- Exemple : [[vérité]]
 -  Explication de la définition lexicale
 #### Justifier la définition
-##### Réponse théorique
+avec une réponse théorique
 #### Thèse finale
 on obtient un concept (ou autrement dit une *définition conceptuelle*)
-___
-# Analyse lexicale
-La définition d'un mot ou d'une expression désigne l'explication de son sens. Au niveau lexical, la définition d'usage désigne l'explication de l'usage commun qui est fait du mot en rapport avec des exemples. Au niveau savant, la définition réfléchie désigne l'**explication** (voir [[pensée convergente]]) de la définition de cet usage en rapport avec des exemples. 
-Remarque : La définition réfléchie va utiliser un *méta-language*, c'est-à-dire un language moins descriptif et plus universel visant à catégoriser les éléments de la définition d'usage.
-___
-## La problématisation
-*Interroger* les principes de {l'**opposition**} : {*thèse initial*}, {*thèse opposée*}, afin de trouver une ==alternative== à un sujet de manière à poser une question ; pour pouvoir proposer un **argument** *de principe* et *ensuite* donner une **réponse**.
-
----
-# Plan
-1. La naissance de la philosophie absolutise la vérité. Socrate et Platon
-	1. Le témoignage de Socrate à la vérité de "Criton". Le modèle du *martyr*.
-	2. **Explication**. La finalité sprirituelle de l'homme
-	3. **Conséquence**. Le dualisme et le tragique humain
-2. la vie biologique fondement de toute réalité humaine. Nietzsche
-3. A quelle condition la vérité est-elle intégrale à la vie
