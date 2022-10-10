@@ -1,4 +1,4 @@
-#🌲  [[problèmes que l'éducation national se doit  de faire face]]
+#🌲  [[problèmes que l'éducation national se doit de faire face]]
 
 ---
 

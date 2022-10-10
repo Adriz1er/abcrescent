@@ -1,4 +1,4 @@
-#🌱 [[problèmes que l'éducation national se doit  de faire face]]
+#🌱 [[problèmes que l'éducation national se doit de faire face]]
 ___
 À l'école on ne fait que reformuler ce que dit le professeur -donc autrement dit sans prendre en compte la morale n'importe quelle information qui est dans le programme- ; donc [[L'utilitarisme oblige à utiliser seulement la pensée convergente dans l'éducation nationale]]
 

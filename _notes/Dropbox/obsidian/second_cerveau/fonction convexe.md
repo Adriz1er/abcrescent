@@ -1,6 +1,6 @@
 #📥 
 ___
-#spaced/maths
+#spaced/maths 
 Pour qu'une fonction $f$ soit dite *convexe* :
 - *si* quel que soient deux points $A$ et $B$ du *graphe* de la fonction, le segment $[AB]$ est entièrement situé **au-dessus** du graphe, c'est-à-dire qu'une *partie* de la courbe de la fonction se situe toujours *en-dessous* de ses **cordes**
 - *ou* on a un segment constitués de points de la fonction (*épigraphe*) $\ge\textit{ à une partie de f }$ 

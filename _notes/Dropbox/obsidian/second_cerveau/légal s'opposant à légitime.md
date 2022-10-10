@@ -2,9 +2,9 @@
 ___
 #spaced/philosophie 
 qui est déterminé par la loi, ou est conforme au lois positives (Droit positif)
-## s'oppose à légitime
+s'oppose à légitime :
 - qui tend à être conforme à l'idéal de justice (Droit naturel)
-# Références
+Références :
 - Pour Kant
 	la légalité est la conformité extérieure à la loi morale, la moaralité exigeant en outre la volonté du sujet de se conformer à la loi par pur respect pour elle. 
 - Texte. Pascal, Pensées, Pensée 103.
