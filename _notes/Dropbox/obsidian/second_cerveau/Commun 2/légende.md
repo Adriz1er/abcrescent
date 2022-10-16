@@ -1,6 +1,8 @@
 #⚙️
 
 ---
+- représente soit une **liste**, ou une *future* **note**
+# Tags / balises
 - 🌱= evergreen note en *construction*
 - 🌲= *evergreen note* construite
 - ☀️= idée relevant de l'[[effet d'incubation]]

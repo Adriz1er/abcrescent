@@ -1,6 +1,6 @@
 #🌱 [[problèmes que l'éducation national se doit de faire face]]
 ___
-À l'école on ne fait que reformuler ce que dit le professeur -donc autrement dit sans prendre en compte la morale n'importe quelle information qui est dans le programme- ; donc [[L'utilitarisme oblige à utiliser seulement la pensée convergente dans l'éducation nationale]]
+À l'école on ne fait que reformuler ce que dit le professeur -donc autrement dit sans prendre en compte la morale n'importe quelle information qui est dans le programme - donc [[Puisqu'il y a de l'utilitarisme alors l'éducation national n'arrive pas à utiliser la pensée divergente]]
 
 Cela fait que l'éducation nationale détériore la confiance en soi
 - [ ] [[L'éducation national détériore la confiance en soi]]

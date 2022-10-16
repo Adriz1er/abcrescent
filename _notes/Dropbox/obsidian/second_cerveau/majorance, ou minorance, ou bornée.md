@@ -2,7 +2,7 @@
 cards-deck: cours::maths
 ---
 
-#📤 [[Cours_maths]] #review/test
+#📤 [[Cours_maths]]
 
 ---
 Une ***majorance*** est (pour tout naturel $n$ réel, et n'importe quel point $M \in R$), qui a pour propriété $$u_{n}\le M$$ donc elle s'applique à une [[suite convergente]]
