@@ -10,6 +10,6 @@
 - ⚙️= utilitaire
 - 🏷️= étiquette redirigeant vers d'autre notes pour regrouper plus globalement
 - 🗺️= carte de contenu
-- 📝= prise de note
+- 📝= rappel, ou forme *indéterminée*
 - 📥 = note *seulement* atomique ce qui forme une [[boite de réception]]
 - 📤 = note *résultante* de **cours** ([[note de cours]]); *imitant* une ==evergreen note==

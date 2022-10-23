@@ -1,5 +1,6 @@
 #📤 
 ___
+#spaced/maths_expert 
 Avec une équation de la forme : $az^{2}+ bz + c=0$ avec $a,b,c \in R$ et bien sur $z \in C$
 
 **Théorème** :

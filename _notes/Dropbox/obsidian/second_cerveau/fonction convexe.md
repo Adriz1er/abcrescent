@@ -6,7 +6,7 @@ Pour qu'une fonction $f$ soit dite *convexe* :
 - *ou* on a un segment constitués de points de la fonction (*épigraphe*) $\ge\textit{ à une partie de f }$ 
 - *ou* si "*vue d'en dessous*", le graphe de la fonction forme une *bosse*
 ![[Pasted image 20221008154749.png|600]]
-### Propriété :
+### Propriété d'une fonction convexe : #flashcard/maths 
 Soit f une fonction définie et **deux** fois *dérivable* sur un intervalle $I$.  
 Les propositions suivantes sont ***équivalentes*** :
 - $f$ est convexe sur $I$

@@ -19,10 +19,10 @@ On **note** $p_i=P(x=x_i)$
 
 - $P([\Omega]([[univers]]))=1$
 - $\Sigma_{i=1}=1=p_1+p_2+...+p_k$
-- $\Somme_i \in [{1;k}] 0<{ou égal} P_i<{ou égal} 1$
+- $\Sum _i \in [{1;k}] 0<{ou égal} P_i<{ou égal} 1$
 
 # Esperance, variance et écart type
-- [[Esperance]]
+- [[Commun 2/Esperance]]
 - [[variance]]
 - [[écart-type]]
 ## Exemple

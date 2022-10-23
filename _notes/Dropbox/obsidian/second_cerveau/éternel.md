@@ -1,4 +1,3 @@
 [[Cours_Philosophie]] #📥 
-
----
-sans commencement ni fin, ce qui *implique* une **pleinitude**
+___
+Éternel #flashcard/philosophie : sans commencement ni fin, ce qui *implique* une **pleinitude**

@@ -1,6 +1,7 @@
 [[Cours_Philosophie]] #📥 
 
 ---
+#spaced/philosophie 
 Socrate est un philosophe grec qui née vers -470 et meurt en -399, n'a jamais rien écris. Il y a des témoignages indirects de sa *pensée* et de sa *réputation* par ailleurs ces disciples ([[@Platon]], [[@Xénophon]] ont notamment oeuvré à maintenir l'image de leur maître, qui est mis en scène dans leurs oeuvres respectives). Il est connu comme l'un des créateurs de la philosophie morale et sur la *lucidité*
 
 Décrit comme laid physiquement, était pauvre et tailleur de pierres. A combattu avec les armes contre les Spartiates, ces adversaires avaient peurs de lui. Fils de sage-femme, *accouche les esprits*. Il a conscience qu'il ne sait *rien*, et humble ; la pretresse de la Piti a dit que c'était l'homme le plus sage d'Athène. Dialogue avec les *jeunes* et les *vieux*. Il avait un centre d'intérêt sur la discussion

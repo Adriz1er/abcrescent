@@ -1,4 +1,4 @@
-[[maths]] #📝/cours  [[probabilités]]
+[[maths]] #📝/cours  
 ___
 # Définition
 Une variable aléatoire est une fonction X, une fonction de $\Omega$ dans $\R$ à ==tout== élément de $[\Omega]$([[univers]]) fait correspondre un nombre réel. [*Exemple*] ([[Drawing 2022-06-09 11.06.00.excalidraw]])

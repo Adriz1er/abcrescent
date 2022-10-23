@@ -1,5 +1,6 @@
 #📤 
 ___
+#spaced/maths_expert 
 Pour tout $u$, $v$ $\in C$ et $n \in N$ :
 $$
 (a+b)^n=\sum_{k=0}^n \binom nk u^{n-k} v^{k}
