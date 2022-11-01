@@ -7,4 +7,7 @@ $$P(X=k)= \binom n k p^k(1-p)^{n-k}$$
 $binompdf(k,n,p)$
 
 ---
-### Tags
+### Nord ::
+### Sud:: [[Représentation graphique de la loi binomiale]]
+### Ouest ::
+### Est ::

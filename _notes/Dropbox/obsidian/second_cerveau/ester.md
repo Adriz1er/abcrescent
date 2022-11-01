@@ -5,4 +5,4 @@ Les esters Ils sont dotés d’un groupe carboxyle (comme un acide carboxylique)
 
 ---
 ### Tags
-[[groupes fonctionnels chimie]]
+[[nom de molécule]]

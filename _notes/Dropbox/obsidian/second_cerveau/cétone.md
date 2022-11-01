@@ -5,4 +5,4 @@ Les cétones Elles possèdent un groupe carbonyle C O à l’intérieur d’une 
 
 ---
 ## tags
-[[groupes fonctionnels chimie]]
+[[nom de molécule]]

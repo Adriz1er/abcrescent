@@ -14,4 +14,4 @@ $1$|$p$
 0|$1-p$
 
 ---
-nord:: [[probabilités]]
+### nord:: [[probabilités]]

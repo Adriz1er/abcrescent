@@ -8,4 +8,4 @@ Exemples : ![[Pasted image 20220921093122.png]]
 
 ---
 ### Tags
-[[Cours_Physique-Chimie]] [[groupes fonctionnels chimie]]
+[[Cours_Physique-Chimie]] [[nom de molécule]]

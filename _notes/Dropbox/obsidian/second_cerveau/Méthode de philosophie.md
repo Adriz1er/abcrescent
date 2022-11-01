@@ -54,11 +54,11 @@ ___
 Elle s'énonce sous la forme d'une question.
 La dissertation est une médiation écrite réglée visant à répondre clairement et rigoureusement à une question en discutant des réponses présentes dans la culture et la société ; c'est une méthode exigeante. 
 ## Introduction
-1. Approche (voir [[Méthode de philosophie#^68c51b]]. Donnez un exemple qui permet d'énoncer la $TI$
+1. Approche (voir [[Méthode de philosophie#^68c51b]]). Donnez un exemple qui permet d'énoncer la $TI$
 2. Analyser l'exemple et déduire les termes principaux du sujet ([[Méthode de philosophie#^b38dde]])
-3. Enoncer $TO$ par son **argument** *principal* (Mais... Cependant...)
+3. énoncer $TO$ par son **argument** *principal* (Mais... Cependant...)
 4. Reformuler le sujet
-5. Enoncer la **problématique**
+5. énoncer la **problématique**
 6. 
 tër Alonö sekt ! tër inimiköan thesan vaarstreten ! tër en facunëb a thes, tesin a metasen oftö fugken !
 ## développement
@@ -99,3 +99,9 @@ répondre au sujet, elle s'organise :
 La philosophie proscrit par nature l'argument "d'autorité". Ce n'est pas parce que "un tel" a dit quelque chose que quelque chose est *vrai*. Au contraire la philosophie engage, selon le mot de Kant, à "penser par soi-même" c'est à dire trouver les "raisons" qui fonde une pensée.
 Pour utiliser une autorité, il faut la soumettre à un examen critique rationnel. Puis, chercher les raisons de sa vérité dans des exemples, des concepts, des vérifications. Il faut donc interpréter rationnellement les éléments religieux et culturels.
 Enfin, il faut indigner le régime particulier de vérité de l'autorité de référence. La religion, par exemple, l'art, la politique aussi, obéissent à des procédures de véridicité chacune particulières. La religion s'appuie sur la tradition et les discussions à son propos ; la politique s'appuie sur la tradition et les discussions à son propos ; la politique s'appuie sur l'opinion et les dispositifs légaux et administratifs... La philosophie, elle, veut s'appuyer sur les exigences de la raison : la référence au réel et les idées qui permettent d'en rendre compte.
+
+---
+# Comment conceptualiser
+- on s'appuie sur le réel
+- on s'appuie sur les textes de philosophes
+- entré dans un contexte avec un vrai rôle

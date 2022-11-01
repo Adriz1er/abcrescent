@@ -1,0 +1,1 @@
+composé de [[suffixe du nom de la molécule représente la famille chimique]] [[racine du nom de la molécule représente la chaine carbonée]] et [[ramification doit être représentée par le préfixe du nom de la molécule avec une chaine carbonée]]

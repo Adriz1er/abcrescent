@@ -2,7 +2,7 @@
 #excalibrain
 ___
 #spaced/maths
-Soit $X$ une variable aléatoire qui suit une [[loi de Bernoulli]] de paramètre $p$.  
+Soit $X$ une variable aléatoire qui suit une [[loi de Bernoulli]] de paramètre $p$.  
 L'[[espérance]] mathématique de $X$ est ***$E(X)=p$***.
 
 ---

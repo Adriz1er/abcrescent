@@ -5,4 +5,4 @@ Les amines contiennent le groupement amino −NH2 et ont pour formule générale
 
 ---
 ### Tags
-[[groupes fonctionnels chimie]]
+[[nom de molécule]]
