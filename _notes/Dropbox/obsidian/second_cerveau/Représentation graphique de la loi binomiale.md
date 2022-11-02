@@ -1,6 +1,6 @@
 ---
-matière::maths
-chapitre::loi binomiale
+matière:: maths
+chapitre:: loi binomiale
 ---
 #excalibrain 
 ___
