@@ -1,7 +1,3 @@
----
-north: [[@Nietzsche]]
----
-
 #📝 
 ___
 #spaced/philosophie 
@@ -22,3 +18,5 @@ danger du culte des martyrs
 ---
 ### Tags
 [[Cours_Philosophie]]
+
+### north:: [[@Nietzsche]]
