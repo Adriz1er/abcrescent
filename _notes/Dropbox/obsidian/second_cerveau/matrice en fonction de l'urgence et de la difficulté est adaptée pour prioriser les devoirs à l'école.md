@@ -8,3 +8,5 @@ difficile|1 : urgent et difficile|3 : non-urgent et difficile
 standard| urgent et standard
 facile|2 : urgent et facile|4 : facile et non-urgent
 Cette matrice est basé par la *matrice d'Eisenhower* à laquelle on a **remplacé** l'*importance* par la *difficulté* parce qu'on a besoin d'**être en phase** avec ce qui nous ait demandé à l'école, et non de *juger* par nous-même si c'est important ou pas.
+
+^[[The Art of Stress-Free Productivity: David Allen at TEDxClaremontColleges - YouTube](https://www.youtube.com/watch?v=CHxhjDPKfbY)]
