@@ -2,6 +2,7 @@
 
 ---
 Une *matrice* en fonction de l'***urgence*** et de la ***difficulté***^[[the definitive TIME MANAGEMENT GUIDE for busy but lazy people - YouTube](https://youtu.be/QzX9SG83U8k?t=594)] se présente comme ça :
+
 difficulté/urgence |urgent|non-urgent
 --|--|--
 difficile|1 : urgent et difficile|3 : non-urgent et difficile
