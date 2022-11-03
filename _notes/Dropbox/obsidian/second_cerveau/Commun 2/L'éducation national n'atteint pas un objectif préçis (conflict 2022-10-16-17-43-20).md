@@ -5,4 +5,4 @@ Les cours prennent seulement en compte des propriétés (voir : [[L'utilitarisme
 
 *exemple* : comment est-ce qu'on explique que des personnes qui ont des bonnes notes ont des bonnes notes dans toutes les matières ? Si on a des bonnes notes ça veut dire qu'on doit être passionner par ce que l'on fait mais être passionner par tout ce qu'il y a [[cours du lycée]]. 
 
-A noter que : Ca n'a absolument ***aucun sens*** pourtant les "bons élèves" ont l'air *satisfait* parce qu'ils sont en *très (très) grande* majorité avec [[neuro-typie]] (voir aussi l'[[utilitarisme]]). (voir [[Les cours de l'éducation national handicapent la réflexion individuelle]]).
+A noter que : Ca n'a absolument ***aucun sens*** pourtant les "bons élèves" ont l'air *satisfait* parce qu'ils sont en *très (très) grande* majorité avec [[neuro-typie]] (voir aussi l'[[utilitarisme]]). (voir [[Les cours devraient être une ressource gérée intelligement]]).

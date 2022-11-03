@@ -14,7 +14,7 @@ A noter : que si on prend le cas des messageries numériques le fait de regarder
 ---
 - [[Le spectre autistique]]
 
-- [ ] un des endroits les plus excluant pour la personne avec autisme est l'école car [[Les cours de l'éducation national handicapent la réflexion individuelle]]
+- [ ] un des endroits les plus excluant pour la personne avec autisme est l'école car [[Les cours devraient être une ressource gérée intelligement]]
 
 - [ ] adaptation de la personne avec autisme
 	- Puisque [[autisme]] alors on peut tromper les personnes avec [[utilitarisme]] en trouvant des 

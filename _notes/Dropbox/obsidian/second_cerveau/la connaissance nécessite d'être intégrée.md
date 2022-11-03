@@ -1,7 +1,7 @@
-#📥 
+#🌱 
 
 ---
-La connaissance nécessite d'être *intégré*  ^5d43e0
+La connaissance nécessite d'être *intégrée*  ^5d43e0
 - [ ] boussole Zettelkasten
 (voir aussi [[Les evergreen notes doivent être liées à ce qu'on pense]]), et pas de s'ajouter comme si on ajoutait une couche de crème sur la pâte d'un gateau.
 
