@@ -9,7 +9,7 @@ $$t=\dfrac{m_{soluté}}{m_{solution}}$$
 le *titre massique* n'a pas d'unité, mais on peut l'exprimer en pourcentage.
 
 ---
-### Nord:: [[densité d'une solution]]
+### Nord:: 
 ### Sud:: 
-### Ouest:: 
+### Ouest:: [[densité d'une solution]]
 ### Est:: 

@@ -12,5 +12,5 @@ $\rho$ est en ($g.l^{-1}$)
 ---
 ### Nord:: 
 ### Sud:: [[densité d'une solution]]
-### Ouest:: [[Drawing 2022-10-03 18.11.29.excalidraw]]
+### Ouest::
 ### Est:: 

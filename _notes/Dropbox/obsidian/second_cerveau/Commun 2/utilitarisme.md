@@ -1,5 +1,6 @@
 L'utilitarisme se définit par le fait qu'on doit systématiquement donner le plus de ***bien-être*** (à des personnes). 
-*Littéralement* ce que va faire un individu avec cette doctrine simple, c'est compter le plaisir d'un ensemble de personnes, pour qu'une fois une situation sociale terminée on ait pu **maximiser le plaisir**.
+*Littéralement* ce que va faire un individu avec cette doctrine simple, c'est compter le plaisir d'un ensemble de personnes, pour qu'une fois une situation sociale terminée on ait pu **maximiser le plaisir**. ^d094aa
+suit une moral
 
 - A noter qu'il empêche l'accès au monde des idées (voir [[le monde de la caverne]])
 

@@ -10,7 +10,6 @@ Le raisonnement par **récurrence** consiste à *démontrer* que les deux preuve
 - {**preuve initiale**} : sur un entier (généralement sur 0 ou 1)
 ^1662410236651
 - **preuve héréditaire** **vérifiée** sur {l'entier $n+1$}
-^1663218723879
 Le raisonnement par récurrence cherche à démontrer un résultat pour {*tout* $n$}, dans une partie {de $I$ (à partir de certain rang jusqu'à $+\inf$)}.
 ^1663218668569
 # Méthode raisonnement par récurrence
@@ -29,7 +28,8 @@ Le raisonnement par récurrence cherche à démontrer un résultat pour {*tout* 
 
 			⚠️ à noter que : si il y a une *lettre paramétrable* cela *implique* {qu'elle n'aura pas la même *valeur*}.
 ^1663218941134
-	2. ==démontrer== que si ($P_k$) serait *vrai* alors ($P_k+1$) sera *vrai aussi*, pour cela il faut ==**utiliser le fait que ($P_k$) est considéré comme vrai==** pour ==***prouver*** *l'hypothèse de récurrence*==.
+==démontrer== que si ($P_k$) serait *vrai* alors ($P_k+1$) sera *vrai aussi*, pour cela il faut ==**utiliser le fait que ($P_k$) est considéré comme vrai==** pour ==***prouver*** *l'hypothèse de récurrence*==.
+
 ^1663218995287
 		⚠️ *à chaque nouveau calcul* ==il faut utiliser ***or***==
 ^1663044827880

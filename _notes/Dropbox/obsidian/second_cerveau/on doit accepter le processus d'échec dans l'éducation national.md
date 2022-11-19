@@ -2,5 +2,7 @@ Puisque l'[[école devrait montrer son véritable intérêt]] alors le **process
 
 A noter que : sachant que [[la connaissance nécessite d'être intégrée#^5d43e0]] alors il faut *accepter* qu'il y ait des erreurs pour mener à une réussite
 
+- Intérêts de chaque élève 
+
 ---
 #🌱 [[problèmes que l'éducation national se doit de faire face]]

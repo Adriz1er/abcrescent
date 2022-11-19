@@ -5,9 +5,9 @@ home: true
 
 ---
 # Salut 👋, Je suis Adrien et voici mon Jardin Digital 🌱
-Actuellement, je suis au début de la construction d'un système de notes organiques (voir [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes), merci à Andy Matuschak). Vous verrez à chaque début de note un # puis un émoji, si vous voulez savoir en détail le statut de chaque note vous pouvez voir la [[légende]].
+Bienvenue sur mon site, j'utilise mes notes pour *canaliser* mes pensées, tout en les utilisant comme des concepts **authentiques**.
 
-Pour trouver ce qui vous plaît, je vous recommande de commencer par voir :
+Pour (re-)commencer, vous pourrez trouver mes notes en passant par les domaines suivants :
 - [[Organisation]]
 - [[philo]]
 - [[Psychologie]]

@@ -1,4 +1,4 @@
-[[GTD/Organisation]] #🌲
+[[GTD/Organisation]] #⚙️ 
 ____
 Les liens sur obsidian peuvent se faire de différentes manière :
 - [[lien]] -> Sert quand on peut faire une liste d'un sujet [[moc]]

@@ -13,4 +13,4 @@ $\gamma$ : concentration en masse de soluté ($g·L^{-1}$)
 ### Nord:: [[titre massique comme rapport entre deux grandeurs avec la même unité est sans unité]]
 ### Sud:: 
 ### Ouest:: [[masse volumique d'une solution]]
-### Est::  [[titre massique comme rapport entre deux grandeurs avec la même unité est sans unité]]
+### Est:: 
