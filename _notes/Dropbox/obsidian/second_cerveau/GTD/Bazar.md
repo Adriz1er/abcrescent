@@ -1,2 +1,0 @@
-- [x]  A apprendre pour évaluation muscu ★ 
-- [ ] [Basson ★  récurrences](https://todoist.com/showTask?id=5845634313)
